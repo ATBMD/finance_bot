@@ -331,7 +331,7 @@ def begin(message):
 
 # Default statement
 Greetings = [
-    "Hello,I am Financial bot ——Stark presented by mpj. I can help you find information of stocks. Simply send me your query like 'I want to know the open price of Apple.'"]
+    "Hello,I am Financial bot Stark. I can help you find information of stocks. Simply send me your query like 'I want to know the open price of Apple.'"]
 Help = [
     "Simply tell me what you are looking for like 'I want to know the market cap of facebook.' To give more information for more accurate result, you may use 'symbol:FB' or 'name:facebook' and 'description: open price'.To join them together, you can use '-' like 'symbol:FB-description:open price'. By using /next or saying 'thanks', you can end up this turm of search. You can use /help to check this message again."]
 lack_stock = ["Sorry,I'm wondering which stock you are asking about.",
